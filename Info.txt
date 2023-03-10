@@ -1,0 +1,77 @@
+
+<script>
+    function mijnfunctie(){
+        alert("dit is mijn opmerking");
+        // Declaratie
+        let mijngetal = 7;
+        alert(mijngetal);
+        mijngetal = 14;
+        alert(mijngetal + 3);
+        
+        
+    }
+</script>
+
+<br>
+<hr>
+<input />
+<input type="button" value="Klik Hier" onclick="mijnfunctie()" />
+<button>lets go</button>
+
+
+EVENT
+EVENTLISTENER   =-- 
+FUNCTIE   ()
+VARIABELE
+Integrated Development Environment
+
+ALGEMEEN
+
+Visual Studio Code
+git
+github.com - account
+
+DATABASE
+xampp 
+
+JAVA
+Eclipse for java developers
+
+Python
+
+LowCode
+OutSystems
+Mendix
+Blue Prism
+PowerApps
+
+
+portal.azure.com
+proefaccount@infocodefounders.onmicrosoft.com
+w@lkom123!
+
+
+- https://www.the-academy.nl/learn?course=az-900&student=5141  - voor j.j.dejong1998@gmail.com
+
+
+Virsoft Instructor Notes - AZ-900 labs
+
+- To log on to the lab VM, use account Student and password Pa55w.rd
+
+ 
+
+- The following software is already installed in the lab VM:
+
+      * Azure PowerShell Az Module 1.2.1
+
+
+
+
+
+
+
+
+
+
+
+
